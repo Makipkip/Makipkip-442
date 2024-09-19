@@ -1,0 +1,54 @@
+<!DOCTYPE>
+
+<HTML>
+
+<HEAD> 
+
+<linkrel=stylesheet href=Style.css>
+
+
+<TITLE> MY portfolio <TITLE/>
+
+<body>
+
+<h1>
+ 
+Myself
+ 
+<h1/>
+
+<p>
+
+My name is Ntsiuoa. My surname is Libe, I am a girl aged 24. I am tall, brown skinned lady. I was born and raised in 
+Thaba-Tseka district in Lesotho.I am a Mosotho citizen I know how to communicate in both sesotho and English.I like reading 
+and writting, I also like debating I am talkative so I am able to talk to audience. Accademically, I am studing computer
+ studies at Vision Rave.
+
+<p/>
+
+<hobies>
+
+Learning and listening
+
+Eating
+
+
+<hobies/>
+
+
+<footer>
+
+
+Ntsiuoa 
+ 
+Ntsiuoalibe@mail.com
+
+53693457
+
+<footer/>
+ 
+
+
+<body/>
+
+<html/>
